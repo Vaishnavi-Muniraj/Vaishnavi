@@ -1,0 +1,27 @@
+body{
+    background-image: url(./1.jpg);
+    
+}
+.head{
+    text-align: center;
+    color: blue;
+    padding-top: 0.3cm;
+}
+.card{
+    display: flex;
+    margin: auto;
+    background: transparent;
+    border: none;
+    margin-top: 6cm;
+  
+}
+.btn{
+    margin: auto;
+    display: flex;
+    padding-left: 2cm;
+    padding-right: 2cm;
+}
+.link{
+    text-align: center;
+    margin-top: 0.5cm;
+}

@@ -1,0 +1,39 @@
+body{
+    background-image: url(./lukas-blazek-EWDvHNNfUmQ-unsplash.jpg);
+    background-size: cover;
+}
+.main{
+   
+    background: transparent;
+    box-shadow: 6px 6px rgb(111, 127, 134);
+    border: 1px solid black;
+}
+
+.head1{
+    text-align: center;
+    padding-top: 0.2cm;
+}
+.head2{
+    text-align: center;
+}
+.btn{
+    margin: auto;
+    display: flex;
+    padding-left: 2cm;
+    padding-right: 2cm;
+    text-align: center;
+    margin-bottom: 1cm;
+}
+
+.margin{
+    margin-left: 1cm;
+}
+ .navtext{
+     color: rgb(0, 0, 0);
+    
+ }
+
+.navbar{
+    opacity: 0.4;
+   
+}
